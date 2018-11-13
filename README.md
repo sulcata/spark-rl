@@ -1,6 +1,7 @@
 # Spark-RL
-I'll get back to this Eventually™, whenever I have free time. Maybe I'll even
-figure out how to work multi-agent algorithms into it and make an env for
+Still very much a WIP. I'll get back to this Eventually™, whenever I have free time.
+
+Maybe I'll even figure out how to work multi-agent algorithms into it and make an env for
 playing RBY or GSC.
 
 ## Running Examples
